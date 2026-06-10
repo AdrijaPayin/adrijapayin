@@ -1,16 +1,35 @@
 <div align="center">
 
 # 👋 Hello World, I'm Adrija Payin
+<div align="center">
+  <kbd>
+    <br>
+    <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 800; background: linear-gradient(135deg, #ff6b6b, #4ecdc4, #45aaf2, #a55eea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 10px 0;">
+      ✨ ADRIJA PAYIN ✨
+    </h1>
+    <h3 align="center" style="color: #a55eea; font-family: 'Courier New', Courier, monospace; letter-spacing: 2px;">
+      <b>⚡ AI/ML DEVELOPER • SDE • DATA ANALYST ⚡</b>
+    </h3>
+    <br>
+  </kbd>
 
-### 🚀 Aspiring Software Engineer | ML Developer | AI Engineer | Data Analyst
+  <br>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrijapayin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+  <a href="https://github.com/adrijapayin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 
----
-*"Bridging the gap between core software engineering principles and deep learning to build scalable, intelligent systems and robust data pipelines."*
----
+  <br><br>
+  <p align="center" style="font-style: italic; color: #888;">
+    "Bridging the gap between core software engineering principles and deep learning to build scalable, intelligent systems and robust data pipelines."
+  </p>
+  <hr style="border: 1px dashed #4ecdc4;" />
 </div>
 
 ## 📖 About Me
