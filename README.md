@@ -17,7 +17,8 @@
 
 ## 📖 About Me
 
-[cite_start]I am a results-driven Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning[cite: 1, 2]. [cite_start]Grounded heavily in algorithmic problem-solving and software design fundamentals, I focus on transforming raw data into predictive insights, designing custom neural network architectures, and building scalable backend applications[cite: 6, 7].
+* I am a results-driven Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning.
+* Grounded heavily in algorithmic problem-solving and software design fundamentals, I focus on transforming raw data into predictive insights, designing custom neural network architectures, and building scalable backend applications.
 
 ---
 
@@ -58,12 +59,11 @@
 
 ## 📈 Engineering Focus Areas
 
-* [cite_start]🤖 **Model Design & Calibration:** Building and training Custom Artificial Neural Networks (ANNs) alongside complex ensemble setups (Random Forests, Gradient Boosting) optimized via GridSearchCV algorithms[cite: 12, 13, 29].
-* [cite_start]📊 **Recommendation Engines:** Structuring content-based analytics pipelines utilizing vector mathematics, tokenizing arrays, and Cosine Similarity arrays for accurate user personalization[cite: 12, 25].
+* 🤖 **Model Design & Calibration:** Building and training Custom Artificial Neural Networks (ANNs) alongside complex ensemble setups (Random Forests, Gradient Boosting) optimized via GridSearchCV algorithms.
+* 📊 **Recommendation Engines:** Structuring content-based analytics pipelines utilizing vector mathematics, tokenizing arrays, and Cosine Similarity arrays for accurate user personalization.
 * 🔌 **API Integration & Performance:** Designing high-throughput backend data pipelines by creating local decoupled PostgreSQL architectures tied to FastAPI server logic.
-* [cite_start]🧱 **Computer Science Core:** Well-versed in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Computer Networks, and Relational Database Systems (DBMS)[cite: 11].
-* [cite_start]🧪 **Data Infrastructure Engineering:** Deep Exploratory Data Analysis (EDA), structural data cleaning, feature extraction, scaling, and feature leakage validation[cite: 12, 30].
-
+* 🧱 **Computer Science Core:** Well-versed in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Computer Networks, and Relational Database Systems (DBMS).
+* 🧪 **Data Infrastructure Engineering:** Deep Exploratory Data Analysis (EDA), structural data cleaning, feature extraction, scaling, and feature leakage validation.
 ---
 
 ## 📊 GitHub Metrics & Insights
