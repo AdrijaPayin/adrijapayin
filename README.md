@@ -1,40 +1,23 @@
-<div align="center">
+<div align="center" style="background-color: #0d1117; padding: 40px 20px; border-radius: 10px; margin-bottom: 30px;">
 
-# 👋 Hello World, I'm Adrija Payin
-<div align="center">
-  <kbd>
-    <br>
-    <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 800; background: linear-gradient(135deg, #ff6b6b, #4ecdc4, #45aaf2, #a55eea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 10px 0;">
-      ✨ ADRIJA PAYIN ✨
-    </h1>
-    <h3 align="center" style="color: #a55eea; font-family: 'Courier New', Courier, monospace; letter-spacing: 2px;">
-      <b>⚡ AI/ML DEVELOPER • SDE • DATA ANALYST ⚡</b>
-    </h3>
-    <br>
-  </kbd>
+# <font color="#00d2ff" size="10" face="Segoe UI">Adrija Payin</font>
 
-  <br>
+### <font color="#00b0ff" size="5" face="Segoe UI">AI Engineer | ML Developer | Data Analyst | SDE</font>
 
-  <a href="https://github.com/adrijapayin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+<br>
 
-  <br><br>
-  <p align="center" style="font-style: italic; color: #888;">
-    "Bridging the gap between core software engineering principles and deep learning to build scalable, intelligent systems and robust data pipelines."
-  </p>
-  <hr style="border: 1px dashed #4ecdc4;" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrijapayin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+---
+*Bridging the gap between core software engineering principles and deep learning to build scalable, intelligent systems and robust data pipelines.*
+---
 </div>
 
 ## 📖 About Me
 
-I am a results-driven Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning. Grounded heavily in algorithmic problem-solving and software design fundamentals, I focus on transforming raw data into predictive insights, designing custom neural network architectures, and building scalable full-stack REST API backend applications.
+[cite_start]I am a results-driven Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning[cite: 1, 2]. [cite_start]Grounded heavily in algorithmic problem-solving and software design fundamentals, I focus on transforming raw data into predictive insights, designing custom neural network architectures, and building scalable backend applications[cite: 6, 7].
 
 ---
 
@@ -75,11 +58,11 @@ I am a results-driven Computer Science & Engineering student specializing in Art
 
 ## 📈 Engineering Focus Areas
 
-* 🤖 **Model Design & Calibration:** Building and training Custom Artificial Neural Networks (ANNs) alongside complex ensemble setups (Random Forests, Gradient Boosting) optimized via GridSearchCV algorithms.
-* 📊 **Recommendation Engines:** Structuring content-based analytics pipelines utilizing vector mathematics, tokenizing arrays, and Cosine Similarity arrays for accurate user personalization.
+* [cite_start]🤖 **Model Design & Calibration:** Building and training Custom Artificial Neural Networks (ANNs) alongside complex ensemble setups (Random Forests, Gradient Boosting) optimized via GridSearchCV algorithms[cite: 12, 13, 29].
+* [cite_start]📊 **Recommendation Engines:** Structuring content-based analytics pipelines utilizing vector mathematics, tokenizing arrays, and Cosine Similarity arrays for accurate user personalization[cite: 12, 25].
 * 🔌 **API Integration & Performance:** Designing high-throughput backend data pipelines by creating local decoupled PostgreSQL architectures tied to FastAPI server logic.
-* 🧱 **Computer Science Core:** Well-versed in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Computer Networks, and Relational Database Systems (DBMS).
-* 🧪 **Data Infrastructure Engineering:** Deep Exploratory Data Analysis (EDA), structural data cleaning, feature extraction, scaling, and feature leakage validation.
+* [cite_start]🧱 **Computer Science Core:** Well-versed in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Computer Networks, and Relational Database Systems (DBMS)[cite: 11].
+* [cite_start]🧪 **Data Infrastructure Engineering:** Deep Exploratory Data Analysis (EDA), structural data cleaning, feature extraction, scaling, and feature leakage validation[cite: 12, 30].
 
 ---
 
