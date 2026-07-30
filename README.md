@@ -42,8 +42,31 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-### 🗄️ Web Frameworks, Databases & Architecture
+### 🤖 Generative AI, LLMs & Agentic AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C47FF?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-4B8BBE?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=for-the-badge)
+
+### 🧠 Natural Language Processing
+
+![NLTK](https://img.shields.io/badge/NLTK-154F8C?style=for-the-badge)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-4285F4?style=for-the-badge)
+![Word2Vec](https://img.shields.io/badge/Word2Vec-FF6F00?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-FFB000?style=for-the-badge)
+![Tokenization](https://img.shields.io/badge/Tokenization-4CAF50?style=for-the-badge)
+
+### ⚙️ Backend, APIs, Databases & Deployment
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -59,12 +82,17 @@
 
 ## 📈 Engineering Focus Areas
 
-* 🤖 **Model Design & Calibration:** Building and training Custom Artificial Neural Networks (ANNs) alongside complex ensemble setups (Random Forests, Gradient Boosting) optimized via GridSearchCV algorithms.
-* 📊 **Recommendation Engines:** Structuring content-based analytics pipelines utilizing vector mathematics, tokenizing arrays, and Cosine Similarity arrays for accurate user personalization.
-* 🔌 **API Integration & Performance:** Designing high-throughput backend data pipelines by creating local decoupled PostgreSQL architectures tied to FastAPI server logic.
-* 🧱 **Computer Science Core:** Well-versed in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Computer Networks, and Relational Database Systems (DBMS).
-* 🧪 **Data Infrastructure Engineering:** Deep Exploratory Data Analysis (EDA), structural data cleaning, feature extraction, scaling, and feature leakage validation.
----
+* 🤖 **Generative AI & LLM Applications:** Building Retrieval-Augmented Generation (RAG) systems, LLM-powered assistants, semantic search pipelines, and intelligent AI applications using LangChain, vector databases, and embedding models.
+
+* 🧠 **Machine Learning & Deep Learning:** Designing, training, and optimizing neural networks, ensemble models, and predictive ML pipelines using TensorFlow, Scikit-Learn, and Keras.
+
+* 📊 **Natural Language Processing:** Text preprocessing, embeddings, transformer models, semantic similarity, document retrieval, information extraction, and conversational AI.
+
+* 🔌 **Backend & API Engineering:** Developing scalable REST APIs with FastAPI, integrating databases, authentication, and AI model deployment.
+
+* 🗄️ **Data Engineering:** Data collection, preprocessing, feature engineering, EDA, visualization, and scalable data pipelines.
+
+* 💻 **Software Engineering:** Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks.
 
 ## 📊 GitHub Metrics & Insights
 
